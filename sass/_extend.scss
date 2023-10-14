@@ -1,0 +1,84 @@
+.header-title{
+    width: $w2;
+    height:  $h3;
+    color:$c1;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    font-size:  $s1;
+    line-height: 40px;
+}
+
+
+.logo{
+    width: $w4;
+    height: $h4; 
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: $c2;
+    padding-top: 20px;
+    font-size:  $s5;
+}
+
+
+.sign-in{
+    width:  $w5;
+    height: $h4; 
+    text-align: right;
+    padding-right: 100px;
+    padding-top: 20px;
+}
+
+.card{
+    width:  $w8;
+    height:  $h5;
+    margin-right: auto;
+    margin-left: auto;
+    @include flex2(center,space-between,row );
+    margin-top: 10px;
+    border-bottom: 4px solid grey;  
+}
+
+.title{
+    width:  $w11;
+    color: $c1;
+    text-align: left;
+    font-size:  $s5;
+}
+.question-side{
+    width: $w1;
+    border-bottom: 5px solid grey;
+}
+
+.membership{
+    width: $w2;
+    margin-left: auto;
+    margin-right: auto;
+    color: $c1;
+    text-align: center;
+    margin-bottom: 20px; 
+}
+
+.question-cards{
+    width:  $w8;
+    height:  $h4;
+    background: rgb(44, 46, 46);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 3px;
+    @include flex3(row,space-between ,row );
+    color: $c1;
+    padding: 0 50px;
+    font-size:  $s6;
+}
+.contact-side{
+    width:  $w9;
+    height:  $h7;
+    margin-left: auto;
+    margin-right: auto;
+}
+.contact-details{
+    @include flex4(center,space-between ,row );
+    padding-top: 80px;
+}

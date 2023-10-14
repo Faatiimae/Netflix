@@ -1,0 +1,26 @@
+@mixin flex1 ($d,$a,$j){
+    display: flex;
+    flex-direction: $d;
+    align-items: $a;
+    justify-content: $j;
+    
+}
+@mixin flex2($a,$j,$d){
+    display: flex;
+    align-items: $a;
+    justify-content: $j;
+    flex-direction: $d;
+
+}
+@mixin flex3($d,$j,$a){
+    display: flex;
+    flex-direction: $d;
+    justify-content: $j;
+    align-items: $a;
+}
+@mixin flex4($a,$j,$d){
+    display: flex;
+    align-items: $a;
+    justify-content: $j;
+    flex-direction: $d;
+}
