@@ -32,6 +32,8 @@ This project was developed using the following technologies
 | 5 | VSCode | Text editor used in the project  |
  
 
+## SAMPLE SCREEN APPEARANCE
+
 
 
 
