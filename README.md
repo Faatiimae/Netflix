@@ -27,9 +27,9 @@ This project was developed using the following technologies
 | - | ---------- | --------------------- |
 | 1 | HTML | Building a project skeleton |
 | 2 | CSS |  Make-up of the established skeleton |
-| 3 | GIT |  Project version control management |
-| 4 | VSCode | Text editor used in the project |
-| 5 | SASS |  |
+| 3 | SASS | ---------------------  |
+| 4 | GIT | Project version control management |
+| 5 | VSCode | Text editor used in the project  |
  
 
 
