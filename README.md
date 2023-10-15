@@ -1,8 +1,8 @@
 # GITHUB INDICATORS
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Faatiimae/test?style=for-the-badge)
-![GitHub watchers](https://img.shields.io/github/watchers/Faatiimae/test?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/Faatiimae/test?style=for-the-badge)     
+![GitHub Repo stars](https://img.shields.io/github/stars/Faatiimae/Netflix?style=for-the-badge)
+![GitHub watchers](https://img.shields.io/github/watchers/Faatiimae/Netflix?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/Faatiimae/Netflix?style=for-the-badge)     
 
 # Netflix
 
@@ -16,7 +16,7 @@ Hello, I created  Netflix sign up page. I used here html, css and sass tags.
 > *STEP-2:*  enter the `Netflix` folder that appears <br/>
 > *STEP-3:*  open the folder you are in a text editor <br/>
 > *STEP-4:*  run the  all the`index.html` files in the main folder <br/>
-> *STEP-5:*  to download the project as `.zip`  [here](https://github.com/Faatiimae/test/archive/refs/heads/master.zip) click <br/>
+> *STEP-5:*  to download the project as `.zip`  [here](https://github.com/Faatiimae/Netflix/archive/refs/heads/master.zip) click <br/>
 
 
 ## Technology
