@@ -32,14 +32,7 @@ This project was developed using the following technologies
 | 5 | VSCode | Text editor used in the project  |
  
 
-## SAMPLE SCREEN APPEARANCE
-
-![There was a screenshot here](./screenshot1.png)
-![There was a screenshot here](./screenshot2.png)
-![There was a screenshot here](./screenshot3.png)
-![There was a screenshot here](./screenshot4.png)
-![There was a screenshot here](./screenshot5.png)
-![There was a screenshot here](./screenshot6.png)
+ 
 
 
 
